@@ -13,10 +13,7 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Helped from https://github.com/llSourcell/A_Guide_to_Running_Tensorflow_Models_on_Android/blob/master/mnistandroid/app/src/main/java/mariannelinhares/mnistandroid/MainActivity.java
- * Created by marianne-linhares on 20/04/17.
- */
+
 
 public class TensorFlowClassifier implements Classifier {
 
