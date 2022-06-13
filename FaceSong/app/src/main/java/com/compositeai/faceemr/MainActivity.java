@@ -180,7 +180,7 @@ public class MainActivity extends AppCompatActivity {
 
         this.faceImageView.setImageBitmap(grayImage);
         this.emotionShowView.setText(text);
-        String[] songs = {"Happy", "Don't worry, be happy", "Say Yes", "Walking On Sunshine", "Uptown Funk", "Love On Top", "Can't stop the feeling", "Pocket Full Of Sunshine", "Good Life" , "Shake it off"};
+        String[] songs = {"Happy", "Don't worry, be happy", "Say Yes", "Walking On Sunshine", "Uptown Funk", "Love On Top", "Can't stop the feeling", "Pocket Full Of Sunshine", "Good Life" , "Shake it off", "mungaru male"};
         int max = 9;
         int num = (int) (Math.random()*max);
         String song = songs[num];
